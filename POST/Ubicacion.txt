@@ -1,0 +1,28 @@
+<strong>UBICACIÓN</strong>
+
+Estamos situados en el km. 540 de la ruta nacional n° 7, a 1 km al N.O de General Levalle (población de 7000 habitantes) que ofrece servicios de hotelería y gastronomía
+
+||<strong> LOCATION</strong>
+We are located at km. 540 No 7, 1 km NW of General Levalle (population of 7000) that provides national route hotels and restaurants
+
+[mapsmarker marker="1"]
+
+<strong>INSTALACIONES</strong>
+
+El paseo posee:
+<ul>
+	<li>                               2 canchas de polo</li>
+	<li>                               Caballerizas</li>
+	<li>                               Picadero</li>
+	<li>                               Pista de vareo</li>
+</ul>
+||<strong>FACILITIES</strong>
+
+El paseo has:
+<ul>
+	<li>                                2 polo</li>
+	<li>                                Horseback</li>
+	<li>                                riding school</li>
+	<li>                                Tennis vareo</li>
+</ul>
+<a href="http://paseopolo.com.ar/pp/wp-content/gallery/paseo-polo/8.jpg"><img class="aligncenter" alt="" src="http://paseopolo.com.ar/pp/wp-content/gallery/paseo-polo/8.jpg" width="960" height="720" /></a>
